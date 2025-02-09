@@ -3,8 +3,15 @@
 - My name is Arthur and I'm a Software Developer from Brazil! 🇧🇷
 
 ## About Me
-- Web developer
-- Current working with PHP and Laravel at Hostdime Brazil
+I'm a Developer with experiences on building scalable and maintainable applications, following best practices in clean code, software architecture, and testing.
+
+🔹 Experienced in backend and full-stack development
+
+🔹 Working with RESTful APIs, database design, and performance optimization
+
+🔹 Interested in software design patterns and improving code quality
+
+🔹 Constantly learning and staying up to date with modern development practices
 ## My techs
 
 <div align="left">
